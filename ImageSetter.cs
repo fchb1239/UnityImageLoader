@@ -9,7 +9,7 @@ namespace UnityImageSetter
         /// Converts an image file to a Texture2D
         /// </summary>
         /// <param name="fileLocation">The file location of the image</param>
-        /// <param name="filterMode">The filter more, this can be Point, Bilinear or Trilinear</param>
+        /// <param name="filterMode">The filter mode, this can be Point, Bilinear or Trilinear</param>
         /// <param name="width">The amount of pixels for the width</param>
         /// <param name="height">The amount of pixels for the height</param>
         /// <returns>Texture2D</returns>
